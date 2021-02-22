@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Severin\'s BMI Rechner</string>
+    <string name="hallo_welt">Hallo Welt!</string>
+    <string name="gruessen">Grüssen</string>
+    <string name="greeting">Hallo %s</string>
+    <string name="bitte_namen_eingeben">Bitte Namen eingeben</string>
+    <string name="bmi_rechner">BMI Rechner</string>
+    <string name="gewicht_eingeben">Gewicht eingeben</string>
+    <string name="groesse_eingeben">Grösse eingeben (in cm)</string>
+    <string name="bin_ich_dick">Bin ich dick?</string>
+    <string name="resultat">Resultat</string>
+    <string name="message_fett">Du bist wirklich fett</string>
+    <string name="message_leichtFett">Du bist schon ein bisschen dick</string>
+    <string name="message_normal">Du bist normalgewichtig</string>
+    <string name="message_untergewicht">Iss mal was!</string>
+    <string name="helpbutton">Help</string>
+</resources>
